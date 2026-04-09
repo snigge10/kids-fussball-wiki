@@ -1,0 +1,54 @@
+# Video-Liste: 360Football
+
+| Nr | Video-ID | Titel | URL |
+|----|----------|-------|-----|
+| 1 | w0EGcG82X_c | Parents, listen up! - How to train your child correctly | https://www.youtube.com/watch?v=w0EGcG82X_c |
+| 2 | qqFKAsqmmw0 | The 3 BEST exercises for your individual training! | https://www.youtube.com/watch?v=qqFKAsqmmw0 |
+| 3 | 6cEjzWV9jI0 | With these 3 exercises you will become the next Lamine Yamal! | https://www.youtube.com/watch?v=6cEjzWV9jI0 |
+| 4 | 6CXGw8a1WdQ | How to systematically integrate mental aspects into your training! (with Football Leverage) - Part 1 | https://www.youtube.com/watch?v=6CXGw8a1WdQ |
+| 5 | l_Ix6A-T8cY | Intensive training with Ana Markovic! Complete session | https://www.youtube.com/watch?v=l_Ix6A-T8cY |
+| 6 | mNQiLVGRn1s | Complete technical training for children with cones and a ball – ball feel, dribbling and control! | https://www.youtube.com/watch?v=mNQiLVGRn1s |
+| 7 | NRIawXa-NH8 | Mejor Francisco im Individualtraining Was kann er am Ball? | https://www.youtube.com/watch?v=NRIawXa-NH8 |
+| 8 | JWWJF3QOs4I | Training insights with Serie A pro Samuel Ballet: This is how the best train! | https://www.youtube.com/watch?v=JWWJF3QOs4I |
+| 9 | 57ZEFpqaNyo | RB Leipzig lädt uns ein Training mit Spielerinnen & exklusive Einblicke in die Academy! | https://www.youtube.com/watch?v=57ZEFpqaNyo |
+| 10 | YnttHoaLB6E | 8 Best Soccer Drills You Can Do at Home - Train Your Technique and Ball Skills Alone! | https://www.youtube.com/watch?v=YnttHoaLB6E |
+| 11 | Hdh6Hfifq14 | 6 Skills und Tricks - Werde unaufhaltbar im 1-gegen-1! | https://www.youtube.com/watch?v=Hdh6Hfifq14 |
+| 12 | UJiUmNlsnqk | Soccer juggling made easy: The best tricks for beginners! (Step by step) | https://www.youtube.com/watch?v=UJiUmNlsnqk |
+| 13 | g3ElkXqoZZY | The 3 BEST Drills for Ball Control and Dribbling – Dominate Every Opponent! | https://www.youtube.com/watch?v=g3ElkXqoZZY |
+| 14 | Qn7JCiEmxmM | 3 Profi-Schussübungen von Real Madrid und Liverpool – Perfektioniere deinen Abschluss! | https://www.youtube.com/watch?v=Qn7JCiEmxmM |
+| 15 | 8PxkhAG7z_0 | Zentrales Mittelfeld Übungen – Trainiere wie ein Profi mit 3 Spielern! | https://www.youtube.com/watch?v=8PxkhAG7z_0 |
+| 16 | r3pcRHNXUV4 | Puma Event Portugal: Exklusiver Einblick und spannender Sieg! | https://www.youtube.com/watch?v=r3pcRHNXUV4 |
+| 17 | lepHpKWFEvk | Die ultimative Step-by-Step Trainingseinheit für Kinder! (Level1) | https://www.youtube.com/watch?v=lepHpKWFEvk |
+| 18 | yoSAa5oMrSY | 6 Magische Tricks für Kinder (Schritt für Schritt) | https://www.youtube.com/watch?v=yoSAa5oMrSY |
+| 19 | aKz0A0cuUcM | 4 WOCHEN zur ultimativen Ausdauer: Saisonvorbereitung im Fussball! | https://www.youtube.com/watch?v=aKz0A0cuUcM |
+| 20 | O-XrUpAuJuM | INNENVERTEIDIGER TRAINING für Champions: Meistere das Einzeltraining! | https://www.youtube.com/watch?v=O-XrUpAuJuM |
+| 21 | NSDFuxobltE | Creative practice of passing and receiving for children | https://www.youtube.com/watch?v=NSDFuxobltE |
+| 22 | qcStTur0X8w | ZUSATZTRAININGS, FRAUENFUSSBALL & MEHR - RAMONA BACHMANN enthüllt! | https://www.youtube.com/watch?v=qcStTur0X8w |
+| 23 | K1IUG6SxeHM | SCHLENZER TUTORIAL - Master the perfect technique like a pro! | https://www.youtube.com/watch?v=K1IUG6SxeHM |
+| 24 | 6bQFd0Uxouw | INDIVIDUALTRAINING mit RAMONA BACHMANN für 10ER POSITION | https://www.youtube.com/watch?v=6bQFd0Uxouw |
+| 25 | _krm9TtJy4c | KIDS & BEGINNERS master these 6 TRICKS in 10 MINUTES! | https://www.youtube.com/watch?v=_krm9TtJy4c |
+| 26 | l29O58BeDvc | POWERSCHUSS: Der ultimative Guide für stärkeren Schuss! | https://www.youtube.com/watch?v=l29O58BeDvc |
+| 27 | 71bzkAvhQ0A | Erster Ballkontakt: Meistere den First Touch ALLEINE & EFFEKTIV! | https://www.youtube.com/watch?v=71bzkAvhQ0A |
+| 28 | 1AcqXMu61DY | Musab Aydin - U19 Başakşehir Saisonvorbereitung (Fussball Zusatztraining) | https://www.youtube.com/watch?v=1AcqXMu61DY |
+| 29 | kb8Qf39ilpc | MIDFIELD: Your solo training with just one ball! | https://www.youtube.com/watch?v=kb8Qf39ilpc |
+| 30 | VGsGU25bBR8 | SHOOTING - Master these exercises and become a goal scorer! | https://www.youtube.com/watch?v=VGsGU25bBR8 |
+| 31 | yTZ6Ey4JKGI | Fussball Bewerbungsvideo (Highlight-Video) - Alessandro Migliazza | https://www.youtube.com/watch?v=yTZ6Ey4JKGI |
+| 32 | 00ttsfyAhqc | Technik in der Luft (TOP 8 ÜBUNGEN) - Die musst du beherrschen! | https://www.youtube.com/watch?v=00ttsfyAhqc |
+| 33 | EWxzI_o4K-A | Learn Soccer Shooting Technique for Kids – Made Easy! | https://www.youtube.com/watch?v=EWxzI_o4K-A |
+| 34 | _HT0VDQyNvs | Training weak feet: Fun for children and parents! | https://www.youtube.com/watch?v=_HT0VDQyNvs |
+| 35 | -TaImKP4Jig | STÜRMER TRAINING Fussball ALLEINE - Meistere Deine Skills! | https://www.youtube.com/watch?v=-TaImKP4Jig |
+| 36 | BDixkNWEm7M | Aussenverteidiger - INTENSIVES Training zu zweit & Geheimtipps! | https://www.youtube.com/watch?v=BDixkNWEm7M |
+| 37 | S_JD3v58O9M | Master your passing game: 8 TOP EXERCISES for perfect technique & touch in football! | https://www.youtube.com/watch?v=S_JD3v58O9M |
+| 38 | WdnFYkgI-u4 | TOP 10 DRIBBLING ÜBUNGEN spezifisch FÜR KINDER | https://www.youtube.com/watch?v=WdnFYkgI-u4 |
+| 39 | 6eXbA1P3YL8 | TRAINING für Flügelspieler - DEIN SCHLÜSSEL ZUR SPITZENLEISTUNG | https://www.youtube.com/watch?v=6eXbA1P3YL8 |
+| 40 | 13hIPkWR1oU | Ballannahme & Ballmitnahme (First Touch) Fussball - TOP 3 ÜBUNGEN | https://www.youtube.com/watch?v=13hIPkWR1oU |
+| 41 | tVdQ1AxriSg | Meistere dein Torschusstraining: Exklusives Training mit einem Profi | https://www.youtube.com/watch?v=tVdQ1AxriSg |
+| 42 | Af_2OCAjDIc | Privattraining im Fussball: Die Wahrheit dahinter! | https://www.youtube.com/watch?v=Af_2OCAjDIc |
+| 43 | tb8uo0J2aP4 | Wie du ein ein Top-Stürmer wirst (Schusstraining) – Alleine und ohne Equipment trainieren! | https://www.youtube.com/watch?v=tb8uo0J2aP4 |
+| 44 | NqYiqmCYvnA | BALL CONTROL especially FOR CHILDREN l TOP 8 exercises | https://www.youtube.com/watch?v=NqYiqmCYvnA |
+| 45 | 4tPwvURUuiM | ULTIMATIVE PUMA CHALLENGE - Unsere SpielerInnen wurden richtig gefordert! | https://www.youtube.com/watch?v=4tPwvURUuiM |
+| 46 | HwvkQq4Cn8I | 3 GEHEIMTIPPS - Werde der ultimative Mittelfeldspieler! | https://www.youtube.com/watch?v=HwvkQq4Cn8I |
+| 47 | qFfTIGBRCqY | TORSCHUSS Training: Die 3 besten Übungen für zu Zweit! | https://www.youtube.com/watch?v=qFfTIGBRCqY |
+| 48 | kYnGOKag58w | Der FC ST. GALLEN Athletiktrainer im Gespräch - so wird trainiert! | https://www.youtube.com/watch?v=kYnGOKag58w |
+| 49 | xiZp5HWcbYA | Profi Interview mit FCSG und ex RB Salzburg Spieler Albert Vallci! | https://www.youtube.com/watch?v=xiZp5HWcbYA |
+| 50 | hq1oAh2-rRo | FC St. Gallen VS 360Football - Die ultimative Schusschallenge | https://www.youtube.com/watch?v=hq1oAh2-rRo |

@@ -1,0 +1,54 @@
+# Video-Liste: Mfsfussballtraining
+
+| Nr | Video-ID | Titel | URL |
+|----|----------|-------|-----|
+| 1 | AOcpRVqYcMg | LAUNCH - MFS Player Videoplattform | https://www.youtube.com/watch?v=AOcpRVqYcMg |
+| 2 | IP9hkAGT460 | #einfachbesserfussballspielen - Der MFS-Podcast zieht um | https://www.youtube.com/watch?v=IP9hkAGT460 |
+| 3 | R8xG2hRvVHo | Pep, gewinne die Champions League für uns! | https://www.youtube.com/watch?v=R8xG2hRvVHo |
+| 4 | W3c1k_rUORw | #einfachbesserfussballspielen No.44 I Techniktraining und der Schnelle Transfer zum Spiel | https://www.youtube.com/watch?v=W3c1k_rUORw |
+| 5 | QTY0Ai-lPPw | #einfachbesserfussballspielen No.43 I Manchmal kann eine Liga tiefer Sinn machen | https://www.youtube.com/watch?v=QTY0Ai-lPPw |
+| 6 | hIPhQ5XX9RQ | #einfachbesserfussballspielen No. 42 - Der Umgang mit Yann Sommer ist unfair! | https://www.youtube.com/watch?v=hIPhQ5XX9RQ |
+| 7 | 7aiviBvO1PQ | #einfachbesserfussballspielen No. 41 - Die Nationalmannschaft muss kämpfen? - Unsere einzige Chance! | https://www.youtube.com/watch?v=7aiviBvO1PQ |
+| 8 | uQlLp1XfVuA | #einfachbesserfussballspielen No. 40 - Siegermentalität in Deutschland | https://www.youtube.com/watch?v=uQlLp1XfVuA |
+| 9 | 75aP5snMqWk | Fußballferiencamp in und um München in den Osterferien | https://www.youtube.com/watch?v=75aP5snMqWk |
+| 10 | rtDTZhwnv7s | #simplyplaybetterfootball No. 39 - The thing about volunteering | https://www.youtube.com/watch?v=rtDTZhwnv7s |
+| 11 | sUiW8vfzBw8 | #einfachbesserfussballspielen No. 38 - Gerland und Wolf II - Der Kern unserer Kritik | https://www.youtube.com/watch?v=sUiW8vfzBw8 |
+| 12 | J62YGxnPkdY | #einfachbesserfussballspielen No. 37 - Gerland und Wolf - Endlich die Revolution im Jugendfußball? | https://www.youtube.com/watch?v=J62YGxnPkdY |
+| 13 | DesMcTEU3BU | #einfachbesserfussballspielen No. 36 - Von der G - bis zur A - Jugend | https://www.youtube.com/watch?v=DesMcTEU3BU |
+| 14 | PUShUJL0Lj8 | #einfachbesserfussballspielen No. 35 - Die Ausbildungsbundesliga - Leider nicht für unsere Talente! | https://www.youtube.com/watch?v=PUShUJL0Lj8 |
+| 15 | JsTykO3LUJA | #einfachbesserfussballspielen No. 34 - Teil 2 - Hat der DFB aus seinen Fehlern gelernt? | https://www.youtube.com/watch?v=JsTykO3LUJA |
+| 16 | H6WQce-57No | #einfachbesserfussballspielen No. 34 - Teil 1 - Hat der DFB aus seinen Fehlern gelernt? | https://www.youtube.com/watch?v=H6WQce-57No |
+| 17 | KpAmeygVlYQ | #einfachbesserfussballspielen No. 33 - Der relative Age Effect - und die WM in Katar | https://www.youtube.com/watch?v=KpAmeygVlYQ |
+| 18 | 7f23uZHkhpc | #einfachbesserfussballspielen No. 32 - Der deutsche WM - Kader | https://www.youtube.com/watch?v=7f23uZHkhpc |
+| 19 | JT1eUHGIRA8 | #einfachbesserfussballspielen No. 31 - Das Trainerkarussell in der Bundesliga | https://www.youtube.com/watch?v=JT1eUHGIRA8 |
+| 20 | _dSLdMCcoxs | #einfachbesserfussballspielen No. 30 - Entwicklungspotenzial bei Jugendspielern | https://www.youtube.com/watch?v=_dSLdMCcoxs |
+| 21 | 4Wlobe7dcWc | #einfachbesserfussballspielen No. 29 - Entwicklungspotenzial bei Jugendspielern | https://www.youtube.com/watch?v=4Wlobe7dcWc |
+| 22 | rEf3AjBYsyE | #einfachbesserfussballspielen No. 28 - Ist unsere Philosophie wissenschaftlich widerlegt? | https://www.youtube.com/watch?v=rEf3AjBYsyE |
+| 23 | E6LWOOL1Uzc | #einfachbesserfussballspielen No. 27 - Deutsche Talente zu schlecht? - Taktik in der E-Jugend | https://www.youtube.com/watch?v=E6LWOOL1Uzc |
+| 24 | 75zfwXcigl4 | #einfachbesserfussballspielen No. 26 - Frauenfußball und ehrenamtliche Trainer Teil 2 | https://www.youtube.com/watch?v=75zfwXcigl4 |
+| 25 | pN0ZE3T0zGY | #einfachbesserfussballspielen No. 25 - Transferpolitik des FC Bayern und ehrenamtliche Trainer | https://www.youtube.com/watch?v=pN0ZE3T0zGY |
+| 26 | VYNPVWhoeEM | #simplyplaybetterfootball No. 24 - Long winter break due to the World Cup - opportunity or risk? | https://www.youtube.com/watch?v=VYNPVWhoeEM |
+| 27 | kBO-5QXGtYY | #einfachbesserfussballspielen No. 23 - Funino ist nicht die Lösung! - Wir stellen uns eurer Kritik! | https://www.youtube.com/watch?v=kBO-5QXGtYY |
+| 28 | ej_E6U5li28 | #einfachbesserfussballspielen No. 22 - Funino ist nicht die Lösung! | https://www.youtube.com/watch?v=ej_E6U5li28 |
+| 29 | vLPJSybntvo | Unsere externe Trainerausbildung | https://www.youtube.com/watch?v=vLPJSybntvo |
+| 30 | cAWXGSNiTyI | #einfachbesserfussballspielen No. 21 - Champions League Finale und der Relative Age Effect | https://www.youtube.com/watch?v=cAWXGSNiTyI |
+| 31 | lb3Nm8YW2h4 | #einfachbesserfussballspielen No. 20 - We're going to Ibiza - Guardiola und die Champions League | https://www.youtube.com/watch?v=lb3Nm8YW2h4 |
+| 32 | aLdX35QRUkI | MFS Frame Football | https://www.youtube.com/watch?v=aLdX35QRUkI |
+| 33 | ZYN1qRtGCSI | MFS Goalkeeper | https://www.youtube.com/watch?v=ZYN1qRtGCSI |
+| 34 | VFyedVSGB8A | #einfachbesserfussballspielen No. 19 - Freiburg und der Einspruch + einige weitere Themen TEIL 2 | https://www.youtube.com/watch?v=VFyedVSGB8A |
+| 35 | e1xbrR-25mw | #einfachbesserfussballspielen No. 19 - Freiburg und der Einspruch + einige weitere Themen TEIL 1 | https://www.youtube.com/watch?v=e1xbrR-25mw |
+| 36 | QySL0_e44-s | #einfachbesserfussballspielen No. 18 - Der DFB und Nico Schlotterbeck - Und eine wichtige Eigen... | https://www.youtube.com/watch?v=QySL0_e44-s |
+| 37 | G8g7YD6stgM | Techniktraining für Kleingruppen | https://www.youtube.com/watch?v=G8g7YD6stgM |
+| 38 | Cuuqi9RVZVM | #simplyplaybetterfootball No. 17 - Our rotation principle - And "School always comes first!" | https://www.youtube.com/watch?v=Cuuqi9RVZVM |
+| 39 | E8zmtDIxlT4 | #einfachbesserfussballspielen No. 16 - HaHoHe Hertha BSC - Eine Bitte an alle Investoren | https://www.youtube.com/watch?v=E8zmtDIxlT4 |
+| 40 | UZbgmmI1qO4 | Top 4 Aufwärmen Technik und Koordination | https://www.youtube.com/watch?v=UZbgmmI1qO4 |
+| 41 | MucCi7K4TnE | Neue Inhalte von der Münchner Fussball Schule | https://www.youtube.com/watch?v=MucCi7K4TnE |
+| 42 | tfb8WKn05SU | #einfachbesserfussballspielen No. 15 - Die NLZ - Eine Gefahr für unsere jungen Kicker?? | https://www.youtube.com/watch?v=tfb8WKn05SU |
+| 43 | EpU-Mf5ddp8 | Dribbel wie MESSI & DEPAY - 1 gegen 2 Unterzahl Situationen am Flügel lösen, mit Torschuss | https://www.youtube.com/watch?v=EpU-Mf5ddp8 |
+| 44 | VGO7XGdwUwE | Top 5 Trainingsübungen Übungen - Februar | https://www.youtube.com/watch?v=VGO7XGdwUwE |
+| 45 | O4XK2pztXF0 | 1 gegen 1 am Flügel mit PROFI - Individualtraining mit Flanken | https://www.youtube.com/watch?v=O4XK2pztXF0 |
+| 46 | hKHpzCNGXok | #einfachbesserfussballspielen No. 14 - Der Problemfall Omar Richards | https://www.youtube.com/watch?v=hKHpzCNGXok |
+| 47 | 8hy0_wYDbqs | Komplexes Training mit Torabschlüssen | https://www.youtube.com/watch?v=8hy0_wYDbqs |
+| 48 | ZWhU6iWHoHE | Trainingsspiel für deine Vorbereitung -Fussballspezifische Grundlagenausdauer spielerisch trainieren | https://www.youtube.com/watch?v=ZWhU6iWHoHE |
+| 49 | zcnBgyLKIVU | #einfachbesserfussballspielen No. 13 - Die Probleme des FC Bayern und Pausen im Jugendtraining | https://www.youtube.com/watch?v=zcnBgyLKIVU |
+| 50 | k0-mgGKQGJk | Spielaufbau effektiv trainieren - Individualtraining mit Profi | https://www.youtube.com/watch?v=k0-mgGKQGJk |

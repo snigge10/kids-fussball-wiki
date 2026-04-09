@@ -1,0 +1,54 @@
+# Video-Liste: TrainerKick
+
+| Nr | Video-ID | Titel | URL |
+|----|----------|-------|-----|
+| 1 | leNy03ZGdno | Nur wer übt, wird besser #shorts #fussball | https://www.youtube.com/watch?v=leNy03ZGdno |
+| 2 | ASo9gt_u4oQ | F-D Youth - Goal-Shooting Training - Training Reflection in #football | https://www.youtube.com/watch?v=ASo9gt_u4oQ |
+| 3 | 0EM3SYPv6mk | WarmUp Fungame - Transport ohne Hände - Trainer sein im #fußball | https://www.youtube.com/watch?v=0EM3SYPv6mk |
+| 4 | hnNdE3yaNdM | Steil-Klatsch Rundlauf mit Torschuss - Trainer sein im #fußball | https://www.youtube.com/watch?v=hnNdE3yaNdM |
+| 5 | vgBS-KgCt-4 | G-E Jugend Ideen fürs Hallentraining - Trainer sein im #Kinderfussball | https://www.youtube.com/watch?v=vgBS-KgCt-4 |
+| 6 | MKGBBsDhE4o | TrainerKick - der Kanal für Themen rund um Kinder-Jugend #fußball und #training | https://www.youtube.com/watch?v=MKGBBsDhE4o |
+| 7 | Sk97Yu66-4I | Neue Trainings-Visualisierung im Test | https://www.youtube.com/watch?v=Sk97Yu66-4I |
+| 8 | dcOfveiNIsY | Stress von der Seitenlinie - Trainer sein im #Kinderfußball #Fußball | https://www.youtube.com/watch?v=dcOfveiNIsY |
+| 9 | XCyNItYF1_w | Quick tip #1 Running patterns and ball chaos - being a coach in #football | https://www.youtube.com/watch?v=XCyNItYF1_w |
+| 10 | 86P2jXy3va8 | E-A-Jugend Torhüter Training- Fußballübung für Trainer #Kinderfußball | https://www.youtube.com/watch?v=86P2jXy3va8 |
+| 11 | GVuIJtPaWls | Erfahrung und Selbstreflexion - Trainer sein im #Kinderfußball | https://www.youtube.com/watch?v=GVuIJtPaWls |
+| 12 | sl-Ww-Pv1fI | Zeitenjagd - 1 vs 1 mit Zeit und Gegnerdruck - Fußballübung für Trainer #Kinderfußball | https://www.youtube.com/watch?v=sl-Ww-Pv1fI |
+| 13 | 8JHtHhh5c2c | Der Umgang mit der Spielertraube - G-E-Jugend #Kinderfußball  IReUpload-Ton`22I** | https://www.youtube.com/watch?v=8JHtHhh5c2c |
+| 14 | 6NwSBczpOI0 | Fußball Memory - Koordination Kindgerecht verbessern - Fußballübung für Trainer #Kinderfußball | https://www.youtube.com/watch?v=6NwSBczpOI0 |
+| 15 | tLyr_zxb0_k | Rebound - Mini Goal Fun Game - Football drill for coaches #KidsFootball | https://www.youtube.com/watch?v=tLyr_zxb0_k |
+| 16 | p15PjTXNrFI | F-Youth Active - Pylon Flip Tic Tac Toe - Soccer Exercise for Coaches #KidsSoccer | https://www.youtube.com/watch?v=p15PjTXNrFI |
+| 17 | yuXlUv9IxZI | E-Youth Actives - Long Balls Challenge - Football Drill for Coaches #KidsFootball | https://www.youtube.com/watch?v=yuXlUv9IxZI |
+| 18 | YH-eQMZVLMY | E-Youth - Warm-up #3 - From the idea to practice - Football exercise for coaches #Kidsfootball | https://www.youtube.com/watch?v=YH-eQMZVLMY |
+| 19 | QRixP6LviVs | Penalty bucket - Fun warm-up game - Football drill for coaches #KidsFootball | https://www.youtube.com/watch?v=QRixP6LviVs |
+| 20 | B_WQd0hqVnQ | Oster- Gaudi Fußball Schusswettbewerb #Kinderfußball | https://www.youtube.com/watch?v=B_WQd0hqVnQ |
+| 21 | ciClQgNBUuM | Dieses Konzept formte u.a. de Bruyne, Lukaku und Courtois #Kinderfußball | https://www.youtube.com/watch?v=ciClQgNBUuM |
+| 22 | iJg0d__q9jM | E-Jugend - Pressing - Von der Idee hin zur Praxis - Fußballübung für Trainer #Kinderfußball | https://www.youtube.com/watch?v=iJg0d__q9jM |
+| 23 | 3tHh0nzUpqg | Kinder übernehmen Verantwortung - Wieso ein Kapitän in einer  E-Jugend ?#Kinderfußball | https://www.youtube.com/watch?v=3tHh0nzUpqg |
+| 24 | QHbqkDrEL9k | F-D Jugend - Linienheld - Fußballübungen für Trainer #Kinderfußball | https://www.youtube.com/watch?v=QHbqkDrEL9k |
+| 25 | s4Mq1FbK7BQ | E-D Youth - Passing Skill - Football Exercise for Coaches #KidsFootball | https://www.youtube.com/watch?v=s4Mq1FbK7BQ |
+| 26 | ORApkcUC7F0 | G-D Jugend - Hollandturnier - Fußballübungen für Trainer #Kinderfußball | https://www.youtube.com/watch?v=ORApkcUC7F0 |
+| 27 | JwonU2rDs_U | G-E Jugend - Pylonenwald + Zwillings Eckle - Fußballübungen für Trainer #Kinderfußball | https://www.youtube.com/watch?v=JwonU2rDs_U |
+| 28 | XNEbfxzzENg | Neu als Trainer? 6 Dinge für Kinderfußballtrainer die Euer Training erleichtern und unterstützen. | https://www.youtube.com/watch?v=XNEbfxzzENg |
+| 29 | DUzc0Ab7RIo | F-A Jugend - 4 Farben Wettlauf - Fußballübung für Trainer #Kinderfußball | https://www.youtube.com/watch?v=DUzc0Ab7RIo |
+| 30 | EpDISWppowY | F-Juniors - 2 Dribbling Games - Football Drills for Coaches #KidsFootball | https://www.youtube.com/watch?v=EpDISWppowY |
+| 31 | ek2wxAm9eB0 | F-Youth - 2 team games - Soccer exercises for coaches #KidsSoccer | https://www.youtube.com/watch?v=ek2wxAm9eB0 |
+| 32 | 6hIcHn-oxNA | 7 fun exercises and games for children's and youth football - Part 2 #ChildrensFootball | https://www.youtube.com/watch?v=6hIcHn-oxNA |
+| 33 | XPTa5cGmSg4 | 4 Gaudi Übungen, Fun Games für den Kinder-und Jugendfußball - Teil 1 #Kinderfußball | https://www.youtube.com/watch?v=XPTa5cGmSg4 |
+| 34 | exaZFbvaA7w | What is success in #childrensfootball? | https://www.youtube.com/watch?v=exaZFbvaA7w |
+| 35 | bfQA6NujWwA | E-Jugend - Tore schießen mit Dynamik - Fußballübungen für Trainer #Kinderfußball | https://www.youtube.com/watch?v=bfQA6NujWwA |
+| 36 | 8gGuurHnRQ8 | E-Jugend - Aufwärmen vor dem Spiel #2 #Kinderfußball | https://www.youtube.com/watch?v=8gGuurHnRQ8 |
+| 37 | 8ituiEjhxvM | Eure Kommentare und Fragen #1 I #Kinderfußball | https://www.youtube.com/watch?v=8ituiEjhxvM |
+| 38 | 9o-Cg6UKzvg | Die Thomas Tuchel Methodik: die Spielfeldform steuert das Fußballtraining. #Kinderfußball | https://www.youtube.com/watch?v=9o-Cg6UKzvg |
+| 39 | k7W6HJTM988 | Spaß und Kreativität, Abseits vom Fußballplatz I Ballspaziergang 2 #SBFV | https://www.youtube.com/watch?v=k7W6HJTM988 |
+| 40 | VD1ykFbVRHU | 6 Fußball Fun Games für alle Altersklassen | https://www.youtube.com/watch?v=VD1ykFbVRHU |
+| 41 | I5C4klEAmWY | Dealing with the group of players I G+F+E Youth #ChildrensFootball | https://www.youtube.com/watch?v=I5C4klEAmWY |
+| 42 | cFiGewKUdgs | Wie könnte ein E-Jugend Fußball Training organisiert sein? -#Kinderfußball | https://www.youtube.com/watch?v=cFiGewKUdgs |
+| 43 | n-OWxKaq9RM | The entry-level football coaching license and how to obtain it. | https://www.youtube.com/watch?v=n-OWxKaq9RM |
+| 44 | F766Qg3HWP8 | Fußball Trainer C-Lizenz-1 Woche Prüfungslehrgang Sportschule Steinbach/Baden Baden | https://www.youtube.com/watch?v=F766Qg3HWP8 |
+| 45 | p4QiJgyZ1h0 | 9 First Tips for Coaches in Children's and Youth Football #Children'sFootball | https://www.youtube.com/watch?v=p4QiJgyZ1h0 |
+| 46 | kPHwpKTOy8o | E-Youth - Ball-on and Ball-carrying - Soccer exercises for coaches #Kidsfootball | https://www.youtube.com/watch?v=kPHwpKTOy8o |
+| 47 | E-WVXhosXS4 | Als Trainer besser werden! Mit Spielerkommunikation Ziele und Inhalte im Training steuern #Fußball | https://www.youtube.com/watch?v=E-WVXhosXS4 |
+| 48 | NOggGSrfNJk | E-Jugend - Aufwärmen vor dem Spiel #1 #Kinderfußball | https://www.youtube.com/watch?v=NOggGSrfNJk |
+| 49 | jwgf3ktLnhY | F-Jugend - Spiel in die Tiefe - Fußballübungen für Trainer #Kinderfußball | https://www.youtube.com/watch?v=jwgf3ktLnhY |
+| 50 | Y9Zkke0dIuQ | Ballspaziergang/Wandern #shorts-#Kinderfußball #SBFV | https://www.youtube.com/watch?v=Y9Zkke0dIuQ |
